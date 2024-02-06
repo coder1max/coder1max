@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder1max&layout=compact)
+![Languages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=coder1max&layout=compact)
