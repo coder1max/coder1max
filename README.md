@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <!--
 **coder1max/coder1max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📊 Statistics
+## 📊 Statistiques
 ![Languages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=coder1max&layout=compact)
